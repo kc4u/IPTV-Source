@@ -377,27 +377,27 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000260630/index.
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="爱青春" tvg-name="iHOT爱青春" tvg-logo="https://live.fanmingming.com/tv/IHOT爱青春.png" group-title="IHOT系列",iHOT爱青春
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱都市" tvg-name="iHOT爱都市(wrong)" tvg-logo="https://live.fanmingming.com/tv/IHOT爱都市.png" group-title="IHOT系列",iHOT爱都市(wrong)
+#EXTINF:-1,tvg-id="爱都市" tvg-name="iHOT爱都市" tvg-logo="https://live.fanmingming.com/tv/IHOT爱都市.png" group-title="IHOT系列",iHOT爱都市
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱世界" tvg-name="iHOT爱世界(corrupt)" tvg-logo="https://live.fanmingming.com/tv/IHOT爱世界.png" group-title="IHOT系列",iHOT爱世界
+#EXTINF:-1,tvg-id="爱世界" tvg-name="iHOT爱世界" tvg-logo="https://live.fanmingming.com/tv/IHOT爱世界.png" group-title="IHOT系列",iHOT爱世界
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000210630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000210630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱娱乐" tvg-name="iHOT爱娱乐(corrupt)" tvg-logo="https://live.fanmingming.com/tv/IHOT爱娱乐.png" group-title="IHOT系列",iHOT爱娱乐
+#EXTINF:-1,tvg-id="爱娱乐" tvg-name="iHOT爱娱乐" tvg-logo="https://live.fanmingming.com/tv/IHOT爱娱乐.png" group-title="IHOT系列",iHOT爱娱乐
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱家庭" tvg-name="iHOT爱家庭(corrupt)" tvg-logo="https://live.fanmingming.com/tv/IHOT爱家庭.png" group-title="IHOT系列",iHOT爱家庭
+#EXTINF:-1,tvg-id="爱家庭" tvg-name="iHOT爱家庭" tvg-logo="https://live.fanmingming.com/tv/IHOT爱家庭.png" group-title="IHOT系列",iHOT爱家庭
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000090630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000090630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱探索" tvg-name="iHOT爱探索(corrupt)" tvg-logo="https://live.fanmingming.com/tv/IHOT爱探索.png" group-title="IHOT系列",iHOT爱探索
+#EXTINF:-1,tvg-id="爱探索" tvg-name="iHOT爱探索" tvg-logo="https://live.fanmingming.com/tv/IHOT爱探索.png" group-title="IHOT系列",iHOT爱探索
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000300630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000300630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱时尚" tvg-name="iHOT爱时尚(corrupt)" tvg-logo="https://live.fanmingming.com/tv/IHOT爱时尚.png" group-title="IHOT系列",iHOT爱时尚
+#EXTINF:-1,tvg-id="爱时尚" tvg-name="iHOT爱时尚" tvg-logo="https://live.fanmingming.com/tv/IHOT爱时尚.png" group-title="IHOT系列",iHOT爱时尚
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000140630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000140630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱极限" tvg-name="iHOT爱极限(corrupt)" tvg-logo="https://live.fanmingming.com/tv/IHOT爱极限.png" group-title="IHOT系列",iHOT爱极限
+#EXTINF:-1,tvg-id="爱极限" tvg-name="iHOT爱极限" tvg-logo="https://live.fanmingming.com/tv/IHOT爱极限.png" group-title="IHOT系列",iHOT爱极限
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000170630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000170630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱江湖" tvg-name="iHOT爱江湖(corrupt)" tvg-logo="https://live.fanmingming.com/tv/IHOT爱江湖.png" group-title="IHOT系列",iHOT爱江湖
+#EXTINF:-1,tvg-id="爱江湖" tvg-name="iHOT爱江湖" tvg-logo="https://live.fanmingming.com/tv/IHOT爱江湖.png" group-title="IHOT系列",iHOT爱江湖
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000110630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000110630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱猎奇" tvg-name="iHOT爱猎奇(corrupt)" tvg-logo="https://live.fanmingming.com/tv/IHOT爱猎奇.png" group-title="IHOT系列",iHOT爱猎奇
+#EXTINF:-1,tvg-id="爱猎奇" tvg-name="iHOT爱猎奇" tvg-logo="https://live.fanmingming.com/tv/IHOT爱猎奇.png" group-title="IHOT系列",iHOT爱猎奇
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000190630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000190630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱美食" tvg-name="iHOT爱美食(corrupt)" tvg-logo="https://live.fanmingming.com/tv/IHOT爱美食.png" group-title="IHOT系列",iHOT爱美食
+#EXTINF:-1,tvg-id="爱美食" tvg-name="iHOT爱美食" tvg-logo="https://live.fanmingming.com/tv/IHOT爱美食.png" group-title="IHOT系列",iHOT爱美食
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000120630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000120630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱解密" tvg-name="iHOT爱解密(corrupt)" tvg-logo="https://live.fanmingming.com/tv/IHOT爱解密.png" group-title="IHOT系列",iHOT爱解密
+#EXTINF:-1,tvg-id="爱解密" tvg-name="iHOT爱解密" tvg-logo="https://live.fanmingming.com/tv/IHOT爱解密.png" group-title="IHOT系列",iHOT爱解密
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000200630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000200630&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://live.fanmingming.com/tv/精彩影视.png" group-title="IHOT系列",精彩影视
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
