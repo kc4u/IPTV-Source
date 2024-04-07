@@ -187,7 +187,7 @@ http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8?zjiangsd
 https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8?zjiangsd
 #EXTINF:-1 tvg-id="江苏11" tvg-name="溧水新闻综合" tvg-logo="" group-title="地方频道",溧水新闻综合
 http://live.lsrmw.cn/zhpd/sd/live.m3u8?zjiangsd
-#EXTINF:-1 tvg-id="江苏12" tvg-name="溧水影院娱乐" tvg-logo="" group-title="地方频道",溧水影院娱乐
+#EXTINF:-1 tvg-id="江苏12" tvg-name="溧水影视娱乐" tvg-logo="" group-title="地方频道",溧水影视娱乐
 http://live.lsrmw.cn/ysyl/sd/live.m3u8?zjiangsd
 
 #地方频道：上海 / 10个频道
