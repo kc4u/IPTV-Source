@@ -65,13 +65,13 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
 #EXTINF:-1 tvg-id="央视32" tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="央视",CCTV 风云音乐
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
-#EXTINF:-1 tvg-id="央视33" tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="卫视频道",CETV-1 综合教育
+#EXTINF:-1 tvg-id="央视33" tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视",CETV-1 综合教育
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-#EXTINF:-1 tvg-id="央视34" tvg-name="CETV2" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="卫视频道",CETV-2 空中课堂
+#EXTINF:-1 tvg-id="央视34" tvg-name="CETV2" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="央视",CETV-2 空中课堂
 http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-#EXTINF:-1 tvg-id="央视35" tvg-name="CETV3" tvg-logo="https://live.fanmingming.com/tv/CETV3.png" group-title="卫视频道",CETV-3 教育服务
+#EXTINF:-1 tvg-id="央视35" tvg-name="CETV3" tvg-logo="https://live.fanmingming.com/tv/CETV3.png" group-title="央视",CETV-3 教育服务
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="央视36" tvg-name="CETV4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="卫视频道",CETV-4 职业教育
+#EXTINF:-1 tvg-id="央视36" tvg-name="CETV4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="央视",CETV-4 职业教育
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 
@@ -156,8 +156,6 @@ http://[2409:8087:7001:20:3::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3
 http://[2409:8087:7001:20:3::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 #EXTINF:-1 tvg-id="卫视40" tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.com/tv/康巴卫视.png" group-title="卫视频道",康巴卫视
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
-#EXTINF:-1 tvg-id="卫视41" tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="卫视频道",山东教育卫视
-http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226238/index.m3u8
 
 
 #地方频道：北京 / 2个频道
@@ -302,7 +300,7 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="陕西13" tvg-name="西安教育" tvg-logo="https://live.fanmingming.com/tv/西安教育.png" group-title="地方频道",西安教育频道
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
 
-#地方频道：山西/6个频道
+#地方频道：山西 / 6个频道
 #EXTINF:-1 tvg-id="山西01" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="地方频道",山西卫视
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/shanxi/shanxi.m3u8
 #EXTINF:-1 tvg-id="山西02" tvg-name="黄河电视台" tvg-logo="https://live.fanmingming.com/tv/山西黄河.png" group-title="地方频道",黄河电视台
@@ -316,7 +314,7 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/mai
 #EXTINF:-1 tvg-id="山西06" tvg-name="山西文体生活" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV-DF@main/logo/Shanxi5.png" group-title="地方频道",山西文体生活
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/shanxi/shanxi5.m3u8
 
-#地方频道：黑龙江/6个频道
+#地方频道：黑龙江 / 6个频道
 #EXTINF:-1 tvg-id="黑龙江01" tvg-name="黑龙江新闻法治" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Heilongjiang1.png" group-title="地方频道",黑龙江新闻法治
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225967/index.m3u8
 #EXTINF:-1 tvg-id="黑龙江02" tvg-name="黑龙江文体" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Heilongjiang2.png" group-title="地方频道",黑龙江文体
@@ -329,6 +327,11 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225994/index.m3u8
 #EXTINF:-1 tvg-id="黑龙江06" tvg-name="黑龙江少儿" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Heilongjiang6.png" group-title="地方频道",黑龙江少儿
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8
+
+#地方频道：山东 / 1个频道
+#EXTINF:-1 tvg-id="山东01" tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="地方频道",山东教育卫视
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226238/index.m3u8
+
 
 
 #数字频道 / 32个频道
@@ -470,7 +473,7 @@ http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 
 
-#iHOT / 18个频道
+#iHOT / 29个频道
 #EXTINF:-1 tvg-id="iHOT01" tvg-name="iHOT爱体育" tvg-logo="https://live.fanmingming.com/tv/IHOT爱体育.png" group-title="iHOT",iHOT 爱体育
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="iHOT02" tvg-name="iHOT爱动漫" tvg-logo="https://live.fanmingming.com/tv/IHOT爱动漫.png" group-title="iHOT",iHOT 爱动漫
