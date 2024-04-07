@@ -1,1 +1,1 @@
-Add "https://mirror.ghproxy.com/" before the m3u source link 
+Add "https://mirror.ghproxy.com/" before the source link of the m3u file.
