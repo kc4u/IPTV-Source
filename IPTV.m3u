@@ -428,7 +428,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="国际13" tvg-name="NHK World" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="国际频道",NHK World
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:-1 tvg-id="国际14" tvg-name="央视lJazeera" tvg-logo="https://live.fanmingming.com/tv/aljazeera.png" group-title="国际频道",央视lJazeera
+#EXTINF:-1 tvg-id="国际14" tvg-name="央视lJazeera" tvg-logo="https://live.fanmingming.com/tv/aljazeera.png" group-title="国际频道",AlJazeera
 http://live-hls-web-aje.getaj.net/央视JE/01.m3u8
 #EXTINF:-1 tvg-id="国际15" tvg-name="央视rirang TV" tvg-logo="https://live.fanmingming.com/tv/央视rirangTV.png" group-title="国际频道",央视rirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
